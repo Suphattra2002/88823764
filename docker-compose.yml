@@ -5,5 +5,5 @@ services:
     ports:
       - 80:80
     volumes:
-      - ./public_html:var/www/html
+      - ./public_html:/var/www/html
 
