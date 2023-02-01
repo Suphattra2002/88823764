@@ -35,7 +35,10 @@ if (isset($_POST['start']) && isset($_POST['end'])) {
       echo "$i is odd<br>";
     }
   }
+
+
 }
 
+//http://localhost/public_html/index.php
  
  
